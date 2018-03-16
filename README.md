@@ -7,11 +7,11 @@
 * react-navigation --- tab，导航栏应用
 * react-native-scrollable-tab-view -- 滑动scrollView
 
-![Alt text](./1.png)
+![Alt text](https://github.com/leoAntu/leoImagesStorage/blob/master/leoImagesStorage/inews-1.png?raw=true)
 * 采用webview加载网页内容
-![Alt text2](./3.png)
-
-![图片4](https://raw.githubusercontent.com/leoAntu/leoImagesStorage/master/leoImagesStorage/32C91555-A22F-4F42-AA1C-8B3DFC0C3F07.png)
+![Alt text2](https://github.com/leoAntu/leoImagesStorage/blob/master/leoImagesStorage/inews-2.png?raw=true)
+*类别选择
+![图片4](https://github.com/leoAntu/leoImagesStorage/blob/master/leoImagesStorage/inews-3.png?raw=true)
 
 
 
